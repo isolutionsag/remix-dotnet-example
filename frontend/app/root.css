@@ -1,0 +1,15 @@
+html body {
+  font-family: Pacifico;
+  padding: 0;
+  margin: 0;
+  width: 100vw;
+}
+
+p {
+  word-break: normal;
+}
+
+.attentionText {
+  color: red;
+  font-weight: bold;
+}

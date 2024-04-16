@@ -1,0 +1,11 @@
+{
+    "submit": "Submit",
+    "edit": "Edit",
+    "save": "Save",
+    "cancel": "Abort",
+    "delete": "Delete",
+    "create": "Add new element",
+    "id": "Id",
+    "name": "Name",
+    "action": "Action"
+}

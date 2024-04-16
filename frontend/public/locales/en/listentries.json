@@ -1,0 +1,8 @@
+{
+    "title": "TodoList-Entries: ",
+    "description": "Description",
+    "isCompleted": "Completed",
+    "header_title": "Title",
+    "default_title": "Please provide a title",
+    "default_description": "Please provide a description"
+}

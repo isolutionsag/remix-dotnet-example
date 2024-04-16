@@ -1,0 +1,11 @@
+{
+    "submit": "Senden",
+    "edit": "Bearbeiten",
+    "save": "Speichern",
+    "cancel": "Abbrechen",
+    "delete": "Löschen",
+    "create": "Neues Element hinzufügen",
+    "id": "Id",
+    "name": "Name",
+    "action": "Aktion"
+}
